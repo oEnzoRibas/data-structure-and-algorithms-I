@@ -20,7 +20,7 @@ public class C04EX03 {
         System.out.print("Digite o valor da multa do terceiro nivel de poluentes: ");
         multa3 = teclado.nextDouble();
         System.out.println();
-        System.out.printf("\t\tQuantidade de Poluentes Emitidos X Valor da Multa\n\n");
+        System.out.println("\t\tQuantidade de Poluentes Emitidos X Valor da Multa\n\n");
         System.out.printf("\t\tAté %s - multa de R$ %s\n", nvPol1,multa1);
         System.out.printf("\t\tEntre %s e %s - multa de R$ %s\n", nvPol1,nvPol2,multa2);
         System.out.printf("\t\tAcima de %s - multa de R$ %s", nvPol3,multa3);

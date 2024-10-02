@@ -3,6 +3,9 @@ package TrabalhoCSharp;
 public class Vars {
     public static void main(String[] args) {
 
+        // Exemplo de variáveis em Java.
+        // @Autores: Enzo R. L. D. Ribas && Ana Luiza
+
         //Declaração de Variáveis Numericas Inteiras
         int numInt = -1; // Inteiro de 32 bits com sinal
 

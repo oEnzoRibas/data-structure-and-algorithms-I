@@ -64,8 +64,7 @@ public class C08EX13 {
                             "Quantidade total de cidades cuja população tem mais mulheres: "+contMaisMul+"\n"+
                             "A Cidade com menor população é: "+cidadeMenorPopStr+" com um total de: "+cidadeMenorPop+" habitantes");
 
-        } catch (
-                FileNotFoundException e) {
+        } catch (FileNotFoundException e) {
             System.out.println("\nArquivo não encontrado: " + e.getMessage());
         }
     }

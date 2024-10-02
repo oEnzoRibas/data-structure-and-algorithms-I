@@ -9,10 +9,10 @@ public class C05EX03 {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Digite seu salário: ");
         String salarioStr = teclado.nextLine();
-        salarioDoub = Double.valueOf(salarioStr);
+        salarioDoub = Double.parseDouble(salarioStr);
         System.out.println("Digite o número de dependentes: ");
         String numDepStr = teclado.nextLine();
-        int numDep = Integer.valueOf(numDepStr);
+        int numDep = Integer.parseInt(numDepStr);
         liquido = (salarioDoub-(numDep*60));
         impostoderenda = (liquido*(15/100.0));
         System.out.println("Valor retido de Imposto de Renda = "+impostoderenda);

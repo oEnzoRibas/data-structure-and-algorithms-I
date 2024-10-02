@@ -19,9 +19,9 @@ public class C11EX12 {
         teclado.nextLine();
 
         // Validação do número inserido
-        while (num < 1 || num > 9){
+        while (num < 1 || num > 9 ){
 
-            System.out.println("NÚMERO VÁLIDO!");
+            System.out.println("NÚMERO INVÁLIDO!");
             System.out.println("\nInforme um número entre 1 e 9");
             num = teclado.nextInt();
             teclado.nextLine();

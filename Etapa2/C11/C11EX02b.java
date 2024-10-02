@@ -48,7 +48,7 @@ public class C11EX02b {
 
             JOptionPane.showMessageDialog(null,
                     "Nome: "+nome+"\nClassificação: "+clas);
-        }while (!(nome.equalsIgnoreCase("Reynaldo Duarte")));
+        }while (!(nome.equalsIgnoreCase("Reynaldo Duarte")) );
 
         JOptionPane.showMessageDialog(null,
                 "Quantidade de clientes Classificação: Bronze: "+qntCliBro+

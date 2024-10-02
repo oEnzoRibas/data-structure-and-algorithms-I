@@ -12,7 +12,7 @@ public class C12EX16 {
 
         Scanner teclado = new Scanner(System.in);
 
-        int qnt = 100, qntTop = 5;
+        int qnt = 5, qntTop = 5;
 
         // criação das variaveis temp para ordenação
         String cid[] = new String[qnt];

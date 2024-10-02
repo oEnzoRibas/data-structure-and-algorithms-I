@@ -17,6 +17,7 @@ public class C08EX31 {
         int rep, contEngSalAcima = 0, contSalAdm = 0, contEngOut5k = 0;
         double salario, salarioMin = 0,somaAdm = 0, medSalAdm, menSal = 0;
         Scanner arquivo = null;
+
         try{
             arquivo = new Scanner(file);
         }catch (FileNotFoundException e){

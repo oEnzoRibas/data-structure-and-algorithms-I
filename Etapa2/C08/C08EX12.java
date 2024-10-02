@@ -10,17 +10,36 @@ public class C08EX12 {
         // Enzo Rocha Leite Diniz Ribas
 
 
-        int rep, modelo;
+        int rep = 0, modelo;
         double somaTotal = 0, custo = 0;
-
+        boolean inputValido = false;
 
         Object[] modeloBot = {"A2450","B2356","C3900","D4100","B6749"};
 
-        try {
-            rep = Integer.parseInt(JOptionPane.showInputDialog(null, "Informe o número de clientes que serão questionados", "Pergunta", JOptionPane.QUESTION_MESSAGE));
-        }catch (NumberFormatException e){
-            System.out.println("\nDigite um valor válido: " + e.getMessage());
-            return;
+        while (!inputValido) {
+            try {
+                String input = JOptionPane.showInputDialog(null, "Informe o número de clientes que serão questionados",
+                        "Pergunta", JOptionPane.QUESTION_MESSAGE);
+
+                if (input == null) {
+                    // User cancelled the input
+                    System.out.println("Entrada cancelada pelo usuário.");
+                    return; // Exit the program
+                }
+
+                // Attempt to parse the input
+                rep = Integer.parseInt(input);
+
+                // Check if the number is positive
+                if (rep <= 0) {
+                    throw new NumberFormatException("O número deve ser maior que zero.");
+                }
+
+                inputValido = true;
+            } catch (NumberFormatException e) {
+                // Display an error message and prompt again
+                JOptionPane.showMessageDialog(null, "Digite um valor válido: " + e.getMessage(), "Erro", JOptionPane.ERROR_MESSAGE);
+            }
         }
 
         for (int i = 1; i <= rep; i++) {

@@ -5,6 +5,10 @@ import javax.swing.*;
 public class JOpPane {
     public static void main(String[] args) {
 
+
+        // Exemplo de janela de diálogo em Java.
+        // @Autores: Enzo R. L. D. Ribas && Ana Luiza
+
         Object[] resp = {"Sim", "Não"};
         int resposta;
 
