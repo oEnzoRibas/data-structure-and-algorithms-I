@@ -6,9 +6,9 @@ public class D24642P_A {
     public static void main(String[] args) {
         /*
     Autor: Enzo Rocha Leite Diniz Ribas
-    Matricula D24642
+    Matricula ******
 
-    QUEST√O A CLASSE PRINCIPAL
+    QUEST√ÉO A CLASSE PRINCIPAL
      */
 
         int qntQuestoes = 25;
@@ -20,10 +20,10 @@ public class D24642P_A {
 
         for (int i = 0; i <= qntQuestoes-1; i++) {
             System.out.printf("""
-                    Informe o gabarito da quest„o %d""",(i+1));
+                    Informe o gabarito da quest√£o %d""",(i+1));
             gabarito[i] = teclado.nextLine();
             System.out.printf("""
-                    Informe a resposta do aluno para a quest„o %d""",(i+1));
+                    Informe a resposta do aluno para a quest√£o %d""",(i+1));
             respostas[i] = teclado.nextLine();
         }
 
