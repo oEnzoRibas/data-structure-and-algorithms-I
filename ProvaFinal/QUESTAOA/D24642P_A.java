@@ -2,7 +2,7 @@ package ProvaFinal.QUESTAOA;
 
 import java.util.Scanner;
 
-public class D24642P_A {
+public class QUESTION_A {
     public static void main(String[] args) {
         /*
     Autor: Enzo Rocha Leite Diniz Ribas
