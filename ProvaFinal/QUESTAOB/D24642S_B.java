@@ -1,10 +1,10 @@
 package ProvaFinal.QUESTAOB;
 
-public class D24642S_B {
+public class QUESTION_B {
     /*
     Autor: Enzo Rocha Leite Diniz Ribas
-    Matricula D24642
-    QUEST√O B CLASSE SECUNDARIA
+    Matricula ******
+    QUEST√ÉO B CLASSE SECUNDARIA
      */
 
     public static String criptografa(String frase) {
