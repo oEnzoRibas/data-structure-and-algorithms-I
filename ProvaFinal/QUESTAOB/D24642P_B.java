@@ -3,12 +3,12 @@ package ProvaFinal.QUESTAOB;
 
 import java.util.Scanner;
 
-public class D24642P_B {
+public class QUESTION_B {
 
     /*
     Autor: Enzo Rocha Leite Diniz Ribas
-    Matricula D24642
-    QUEST√O B CLASSE PRINCIPAL
+    Matricula ******
+    QUEST√ÉO B CLASSE PRINCIPAL
      */
 
     public static Scanner teclado = new Scanner(System.in);
