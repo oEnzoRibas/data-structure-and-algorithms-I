@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16c48b2e-0204-42fe-b097-0073cc789b5e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fmUJ2WDh77d66Z3oMJMdQYocxu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.C03EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C07EX02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C10EX07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C10EX08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX02a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX02b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX02c.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX04a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX04b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX15.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.C12EX16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Etapa2.C11.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuestãoA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuestãoB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuestãoC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dsa.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Etapa2.C11" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16c48b2e-0204-42fe-b097-0073cc789b5e" name="Changes" comment="" />
+      <created>1714405673786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714405673786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Etapa2/C11/C11EX10.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Etapa2/C11/C11EX12.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Etapa2/C11/C11EX13.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Etapa2/Prova_02/QuestãoA.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Etapa3/C12EX02.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Etapa2/Prova_02/QuestãoB.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Etapa3/C12EX15.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

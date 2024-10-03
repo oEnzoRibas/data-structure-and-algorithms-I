@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fba2722-deba-489f-81ed-4a2f56bfebb1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/C01EX01.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2djd7PYkl03MMrG4bjTq70pAJz0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.C03EX01.executor": "Run",
+    "Application.C03EX02.executor": "Run",
+    "Application.C03EX03.executor": "Run",
+    "Application.C03EX05.executor": "Run",
+    "Application.C04EX01.executor": "Run",
+    "Application.C04EX02.executor": "Run",
+    "Application.C04EX03.executor": "Run",
+    "Application.C04EX04.executor": "Run",
+    "Application.C04EX05.executor": "Run",
+    "Application.C04EX06.executor": "Run",
+    "Application.C05EX03.executor": "Run",
+    "Application.C05EX04.executor": "Run",
+    "Application.C05EX05.executor": "Run",
+    "Application.C05EX06.executor": "Run",
+    "Application.C05EX07.executor": "Run",
+    "Application.C05EX08.executor": "Run",
+    "Application.C05EX09.executor": "Run",
+    "Application.C05EX1.executor": "Run",
+    "Application.C05EX10.executor": "Run",
+    "Application.C05EX11.executor": "Run",
+    "Application.C05EX12.executor": "Run",
+    "Application.C05EX2.executor": "Run",
+    "Application.C05EXExtra01.executor": "Run",
+    "Application.C05EXExtra02.executor": "Run",
+    "Application.C05EXExtra03.executor": "Run",
+    "Application.C06EX01.executor": "Run",
+    "Application.C06EX02.executor": "Run",
+    "Application.C06EX03.executor": "Run",
+    "Application.C06EX04.executor": "Run",
+    "Application.C06EX05.executor": "Run",
+    "Application.C06EX06.executor": "Run",
+    "Application.C06EX08.executor": "Run",
+    "Application.C06EX09.executor": "Run",
+    "Application.C06EX10.executor": "Run",
+    "Application.C06EX11.executor": "Run",
+    "Application.C06EX12.executor": "Run",
+    "Application.C06EX16.executor": "Run",
+    "Application.C08EX01.executor": "Run",
+    "Application.C08EX02.executor": "Run",
+    "Application.C08EX03.executor": "Run",
+    "Application.C08EX04.executor": "Run",
+    "Application.C08EX05.executor": "Run",
+    "Application.C08EX05a.executor": "Run",
+    "Application.C08EX05aEx.executor": "Run",
+    "Application.C08EX06.executor": "Run",
+    "Application.C08EX1.executor": "Run",
+    "Application.CO06EX07.executor": "Run",
+    "Application.CalculaFatorial.executor": "Run",
+    "Application.Etapa2.C08.C08EX05a.executor": "Run",
+    "Application.LerArqTxt1.executor": "Run",
+    "Application.NomeFilhos3.executor": "Run",
+    "Application.asd.executor": "Run",
+    "Application.sadsda.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Enzo/OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA/Faculdade/1ro Semestre/Algoritmos e Estrutura de Dados/EX Intelij/AED1/src/Etapa2",
+    "onboarding.tips.debug.path": "C:/Users/Enzo/IdeaProjects/AEDI/src/Main.java",
+    "settings.editor.selected.configurable": "Errors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\EX Intelij\AED1\src\Etapa2" />
+      <recent name="C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\EX Intelij\AED1\src\Etapa1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\EX Intelij\AED1\src\Etapa1\C04" />
+      <recent name="C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\EX Intelij\AED1\src\Etapa1" />
+      <recent name="C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\AED1\AED1" />
+      <recent name="C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\AED1\AED1\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Etapa2" />
+      <recent name="Etapa1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C04EX05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C04EX05" />
+      <module name="AEDI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05EXExtra03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Etapa1.C05.C05EXExtra03" />
+      <module name="AEDI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Etapa1.C03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08EX01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Etapa2.C08.C08EX01" />
+      <module name="AEDI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Etapa2.C08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08EX05a" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo2.C08EX05a" />
+      <module name="AEDI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculaFatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculaFatorial" />
+      <module name="AEDI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C05EXExtra03" />
+        <item itemvalue="Application.C08EX01" />
+        <item itemvalue="Application.C04EX05" />
+        <item itemvalue="Application.CalculaFatorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fba2722-deba-489f-81ed-4a2f56bfebb1" name="Changes" comment="" />
+      <created>1710525253525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710525253525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
