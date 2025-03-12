@@ -19,7 +19,7 @@ This repository contains my implementations of Data Structures and Algorithms (D
 The codes are written in Java and can be compiled and executed using a Java compiler.
 
 ## Purpose
-The purpose of this repository is to document my learning journey in Data Structures and Algorithms while enhancing my Java programming skills.
+The purpose of this repository is to document my learning journey in Data Structures and Algorithms while enhancing my Java programming skills. *It is intended for learning purposes only and should not be used to cheat in school or academic assessments.*
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
