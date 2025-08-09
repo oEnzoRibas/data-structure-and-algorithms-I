@@ -11,10 +11,6 @@ This repository contains my implementations of Data Structures and Algorithms (D
 - Basic Data Structures (Arrays, Linked Lists)
 - Searching and Sorting Algorithms
 
-### 🔜 DSA II (Coming Soon)
-
-### 🔜 DSA III (Coming Soon)
-
 ## Usage
 The codes are written in Java and can be compiled and executed using a Java compiler.
 
@@ -25,3 +21,4 @@ The purpose of this repository is to document my learning journey in Data Struct
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 © Enzo R. L. D. Ribas 2024
+
